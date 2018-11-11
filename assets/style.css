@@ -1,0 +1,21 @@
+body {
+    background: rgb(252,233,242);
+    background: radial-gradient(circle, rgba(252,233,242,1) 0%, rgba(208,224,244,1) 100%);
+    
+    color: #9F9FA2
+}
+
+.container {font-family: 'Fira Mono', monospace;
+}
+
+
+h3 {
+    font-size: 20px;
+    letter-spacing: 10px;
+    
+}
+
+form {
+    font-weight: bold;
+    letter-spacing: .5px;
+}
